@@ -2,6 +2,8 @@
 
 ## DevOps Capstone Project
 
+![Build Status](https://github.com/Lakshmi-P12/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repository contains the **DevOps Capstone Project** for the IBM DevOps and Software Engineering Professional Certificate.
 
 The project involves developing and deploying an **Accounts microservice** for an e-commerce application. The microservice manages customer account information and provides REST APIs to create, read, update, delete, and list customer accounts.
